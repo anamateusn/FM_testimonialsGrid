@@ -9,9 +9,12 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device’s screen size.
 
-## Screenshot (Desktop `1440px` | Mobile `320px`)
-`
+## Final Result
+
+### Desktop `1440px`
 ![Project Desktop Screenshot](./images/final-result-desktop.png)
+
+### Mobile `320px`
 ![Project Mobile Screenshot](./images/final-result-mobile.png)
 
 ### Built With
@@ -29,7 +32,7 @@ Users should be able to:
 In this project, my main goal was to recreate the Frontend Mentor design as closely as possible while keeping the code simple, scalable, and fully responsive.
 
 I improved my understanding of:
-- How to build **responsive grid layouts** using `grid-template-columns`, `grid-template-rows`, and `grid-area`.
+- How to build **responsive grid layouts** using `grid-template-columns`, `grid-template-rows`, `grid-column` and `grid-row`.
 - The importance of **avoiding fixed units** like `px` and instead using proportional values (`fr`, `clamp()`, etc.) for better scalability.
 - Using **Utopia’s type and space scales** to maintain consistent rhythm and hierarchy across different screen sizes.
 - Reducing **media queries** by relying on the natural flexibility of CSS Grid and fluid units.
@@ -53,3 +56,5 @@ Developed by **Ana Mateus Neves**
 
 - GitHub: [@anamateusn](https://github.com/anamateusn)
 - Frontend Mentor: [@anamateusn](https://www.frontendmentor.io/profile/anamateusn)
+
+### Thanks for checking ✌️
