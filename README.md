@@ -11,8 +11,8 @@ Users should be able to:
 
 ## Screenshot (Desktop `1440px` | Mobile `320px`)
 `
-![Project Desktop Screenshot](.images/final-result-desktop.png)
-![Project Mobile Screenshot](.images/final-result-mobile.png)
+![Project Desktop Screenshot](./images/final-result-desktop.png)
+![Project Mobile Screenshot](./images/final-result-mobile.png)
 
 ### Built With
 
